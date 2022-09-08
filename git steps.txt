@@ -1,0 +1,16 @@
+STEPS:
+ create a new git repository on github =>demorepo
+
+1. create a folder 
+2. telling git to manage this folder:
+open folder ,right click git bash 
+     git init  :it initialize git repository
+3.add somefiles  e.g sum.java
+4.git status :tells repository status info 
+5.git add sum.java  (trackedfile and stagging area)
+6. git commit -m "inital commit"
+7.git branch -M main
+8 git remote add origin https://github.com/pankaj15091987/demorepo.git
+9.  git push -u origin main
+
+
